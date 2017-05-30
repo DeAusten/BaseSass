@@ -1,0 +1,18 @@
+@import "./base";
+
+.text-avenir-light {
+  font-family: 'Avenir-Pro-Light';
+}
+.text-avenir-heavy {
+  font-family: 'Avenir-Pro-Roman';
+}
+
+@font-face {
+  font-family: 'Avenir-Pro-Light';
+  src: url('../fonts/AvenirNextLTPro-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Avenir-Pro-Roman';
+  src: url('../fonts/AvenirRoman.otf') format('opentype');
+}

@@ -1,0 +1,25 @@
+@import "./base";
+
+.btn-primary {
+  border-color: $app-primary-color !important;
+  background-color: transparent !important;
+  color: $app-primary-color !important;;
+}
+
+.btn-primary:hover {
+  border-color: darken($app-primary-color, 10%) !important;;
+  background-color: darken($app-primary-color, 10%) !important;;
+  color: $app-quaternary-color !important;;
+}
+
+.btn-primary-full {
+  border-color: $app-primary-color !important;
+  background-color: $app-primary-color !important;
+  color: $app-quaternary-color !important;;
+}
+
+.btn-primary-full:hover {
+  border-color: darken($app-primary-color, 10%) !important;;
+  background-color: darken($app-primary-color, 10%) !important;;
+  color: $app-quaternary-color !important;;
+}
