@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41e9ebaa-0ce4-4d45-8bcc-f21ec2dc6efa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/AvenirNextLTPro-Demi.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/AvenirNextLTPro-Demi.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/AvenirNextLTPro-Light.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/AvenirNextLTPro-Light.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/AvenirNextLTPro-Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/AvenirNextLTPro-Regular.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/AvenirRoman.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/AvenirRoman.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/BonvenoCF-Light.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/BonvenoCF-Light.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CaviarDreams.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CaviarDreams.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CaviarDreams_BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CaviarDreams_BoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CaviarDreams_Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CaviarDreams_Italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Caviar_Dreams_Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Caviar_Dreams_Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Nymphont License.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Nymphont License.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/sevenoneeight-bold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/sevenoneeight-bold-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/sevenoneeight-bold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/sevenoneeight-bold-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/sevenoneeight-light-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/sevenoneeight-light-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/sevenoneeight-light-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/sevenoneeight-light-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stylesheets/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stylesheets/modules/_base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stylesheets/modules/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stylesheets/modules/_sizes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stylesheets/modules/_utility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stylesheets/partials/_base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stylesheets/partials/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stylesheets/partials/_positioning.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stylesheets/partials/_typography.scss" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lolWuwg4OCxbb8955fPB9aMWxs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scss/modules" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41e9ebaa-0ce4-4d45-8bcc-f21ec2dc6efa" name="Default Changelist" comment="" />
+      <created>1608271359918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608271359918</updated>
+      <workItem from="1608271360948" duration="346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="752" y="437" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608271429293">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="752" y="437" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1280@0.0.2048.1280" timestamp="1608271429293" />
+    <state x="689" y="291" width="670" height="676" key="search.everywhere.popup" timestamp="1608271537120">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="689" y="291" width="670" height="676" key="search.everywhere.popup/0.0.2048.1280@0.0.2048.1280" timestamp="1608271537120" />
+  </component>
+</project>

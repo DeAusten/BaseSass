@@ -1,9 +1,9 @@
-@import "./base";
+@import "base";
 
 //
 //  Application Positioning
 .padding-zero {
-  padding: $zero;
+  padding: $zero !important;
 }
 .padding-xs {
   padding: $xs;
@@ -50,6 +50,42 @@
 .padding-bottom-xlg {
   padding-bottom: $xlrg;
 }
+.padding-right-zero {
+  padding-right: 0 !important;
+}
+.padding-right-xs {
+  padding-right: $xs;
+}
+.padding-right-sml {
+  padding-right: $sml;
+}
+.padding-right-med {
+  padding-right: $med;
+}
+.padding-right-lrg {
+  padding-right: $lrg;
+}
+.padding-right-xlg {
+  padding-right: $xlrg;
+}
+.padding-left-zero {
+  padding-left: 0 !important;
+}
+.padding-left-xs {
+  padding-left: $xs;
+}
+.padding-left-sml {
+  padding-left: $sml;
+}
+.padding-left-med {
+  padding-left: $med;
+}
+.padding-left-lrg {
+  padding-left: $lrg;
+}
+.padding-left-xlg {
+  padding-left: $xlrg;
+}
 .margin-zero {
   margin: 0px !important;
 }
@@ -68,8 +104,20 @@
 .margin-xlg {
   margin: $xlrg;
 }
+.margin-top-n-xlg {
+  margin-top: -$xlrg;
+}
+.margin-top-n-lrg {
+  margin-top: -$lrg;
+}
 .margin-top-n-med {
+  margin-top: -$med;
+}
+.margin-top-n-sml {
   margin-top: -$sml;
+}
+.margin-top-n-xs {
+  margin-top: -$xs;
 }
 .margin-top-zero {
   margin-top: 0px !important;
@@ -136,4 +184,34 @@
 }
 .margin-right-xlg {
   margin-right: $xlrg;
+}
+.margin-left-xs-n {
+  margin-left: -$xs;
+}
+.margin-left-sml-n {
+  margin-left: -$sml;
+}
+.margin-left-med-n {
+  margin-left: -$med;
+}
+.margin-left-lrg-n {
+  margin-left: -$lrg;
+}
+.margin-left-xlg-n {
+  margin-left: -$xlrg;
+}
+.margin-left-xs {
+  margin-left: $xs;
+}
+.margin-left-sml {
+  margin-left: $sml;
+}
+.margin-left-med {
+  margin-left: $med;
+}
+.margin-left-lrg {
+  margin-left: $lrg;
+}
+.margin-left-xlg {
+  margin-left: $xlrg;
 }

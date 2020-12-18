@@ -1,2 +1,2 @@
 # BaseSass
-Base structure for front end development
+Base styles that seem to make their way into every new app I make
